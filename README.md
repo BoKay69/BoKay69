@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoKay69
 - 👀 I’m interested in C++, Python, Game Design, Software Developement, and Cyber Security.
-- 🌱 I’m currently in college learning C++ and Software developement, however, I am mostly self taught.
+- 🌱 I’m currently enrolled in MSU Denver, studying Computer Science.
 - 💞️ I’m looking to collaborate on any sort of fun project.
 - 📫 How to reach me is by direct message or email.
 - 😄 Pronouns: He/Him
